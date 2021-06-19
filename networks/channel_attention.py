@@ -1,3 +1,12 @@
+""" -*- coding: utf-8 -*-
+@ Time: 2021/3/9 16:14
+@ author: Zhang Chi
+@ e-mail: 220200785@mail.seu.edu.cn
+@ file: unet_se.py
+@ project: UV_Net_paper
+"""
+
+
 import torch
 import torch.nn as nn
 import numpy as np
